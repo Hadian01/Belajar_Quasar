@@ -93,7 +93,7 @@ const rows = [
     protein: 6.0,
     sodium: 337,
     calcium: '6%',
-    iron: '7%'
+    iron: '8%'
   }
 ]
 
